@@ -32,20 +32,15 @@ Foi desenvolvido em formato de notebook para permitir exploração rápida e vis
    
    Execute as células para carregar os dados, aplicar o filtro e visualizar os resultados.
 
-   Requisitos
+   Requisitos:
 
    Python 3.10+
 
    Bibliotecas:
-
    pandas
-
    numpy
-
    plotly
-
    openpyxl (para leitura de Excel)
 
    Instale tudo com:
-
    pip install -r requirements.txt
