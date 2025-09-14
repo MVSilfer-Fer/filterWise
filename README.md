@@ -1,3 +1,9 @@
+
+## Contato
+- Autor: Marcus Ferreira  
+- [LinkedIn](https://www.linkedin.com/in/mvsilfer)  
+- [GitHub](https://github.com/MVSilfer-Fer)
+
 # Filtro Lag de Primeira Ordem
 
 Este projeto é um **protótipo em Python** para aplicar e avaliar um filtro lag de primeira ordem (filtro exponencial) em sinais de processo industrial.  
@@ -24,30 +30,22 @@ Foi desenvolvido em formato de notebook para permitir exploração rápida e vis
    tau = 120.0
    Ts = 1.0
    
-Execute as células para carregar os dados, aplicar o filtro e visualizar os resultados.
+   Execute as células para carregar os dados, aplicar o filtro e visualizar os resultados.
 
-Requisitos
+   Requisitos
 
-Python 3.10+
+   Python 3.10+
 
-Bibliotecas:
+   Bibliotecas:
 
-pandas
+   pandas
 
-numpy
+   numpy
 
-plotly
+   plotly
 
-openpyxl (para leitura de Excel)
+   openpyxl (para leitura de Excel)
 
-Instale tudo com:
+   Instale tudo com:
 
-pip install -r requirements.txt
-
-Objetivo
-
-Este protótipo tem como objetivo demonstrar como filtros digitais de primeira ordem podem ser aplicados a sinais industriais de forma simples, permitindo justificar a escolha da constante de tempo τ em blocos PID.
-
-✍️ Autor: Marcus Ferreira
-
-🔗 GitHub: MVSilfer-Fer
+   pip install -r requirements.txt
